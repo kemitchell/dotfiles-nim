@@ -1,1 +1,1 @@
-export PATH="$PATH:~/.nimble/bin"
+export PATH="$PATH:$PREFIX/nim/bin:~/.nimble/bin"
